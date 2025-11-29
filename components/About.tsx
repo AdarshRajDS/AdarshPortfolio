@@ -60,7 +60,7 @@ export default function About() {
           {/* Download Resume Button */}
           <div className="text-center">
             <a
-              href="/resume.pdf"
+              href="/AdarshRajResume.pdf"
               download
               className="btn-primary inline-flex items-center gap-2"
             >
